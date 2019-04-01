@@ -1,5 +1,5 @@
 name = Modal Page
-description = Creates a modal for specifics pages. This module has been customized from the contrib module "modal_page" (v1.2) by WRI Comms to include a cookie check, option to display on all pages, and custom styling.
+description = Creates a modal for specifics pages. This module has been customized from the contrib module "modal_page" (v1.2) by WRI Comms to include a cookie check, option to display on all pages, and custom styling. Repo: https://github.com/wri/module-wri_modal_page
 package = WRI
 core = 7.x
 version = "7.x-1.2-custom-1.2"
